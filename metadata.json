@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Movie Bot",
+  "description": "A production-ready Telegram Movie Bot built with Python, Pyrogram, and SQLite. Features include fast search, force join verification, direct file downloads, and admin commands.",
+  "requestFramePermissions": []
+}
